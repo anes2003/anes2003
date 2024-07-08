@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anes2003
+- 👋 Hi, I’m anes
 - 👀 I’m interested in idk
 - 🌱 I’m currently learning java
 - 📫 How to reach me message me in fb
