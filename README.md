@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @anes2003
 - 👀 I’m interested in idk
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on others
 - 📫 How to reach me message me in fb
-- ⚡ Fun fact: factfact
+- 📞 How to reach me call me in telegram
+- ⚡ Fun fact: Java is easy
 
 <!---
 anes2003/anes2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
